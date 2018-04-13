@@ -14,7 +14,9 @@ import junit.framework.TestSuite;*/
  */
 public class AppTest 
     //extends TestCase
+
 {
+//this is the test class
    /* *//**
      * Create the test case
      *
